@@ -1,0 +1,1 @@
+ /Users/mspmobiledeveloper/Development/Projects/Flutter/bloctest/.dart_tool/flutter_build/05575f17ac99bdb676e25a3ddab715d7/native_assets.yaml: 
